@@ -11,7 +11,7 @@ using Newtonsoft.Json;
 public class BotIntegration
 {
     private static readonly HttpClient httpClient = new HttpClient();
-    private static string backendUrl = "https://backendcole-backbonecole-production.up.railway.app"; // Altere para o URL do seu backend
+    private static string backendUrl = "https://julia7end-0ram.onrender.com"; // Altere para o URL do seu backend
     private static string currentUserId = null;
     private static bool isRegistered = false;
 
